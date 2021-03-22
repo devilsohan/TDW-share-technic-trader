@@ -1,525 +1,622 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T23:50:46.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zRvWgC-9aSnWCU1kPNXp" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T02:31:33.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fvP0TxHwo9RJWZpkkxLh" version="14.4.9" type="github">
   <diagram id="dHpRJ-4gGW41InI-ocSy" name="Page-1">
-    <mxGraphModel dx="5940" dy="3920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7914" dy="3781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hsY4HkFz0cet4jD83mKn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-1" target="hsY4HkFz0cet4jD83mKn-2">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-1" target="hsY4HkFz0cet4jD83mKn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-1" value="เริ่มระบบบเทรด" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-1" value="เริ่มระบบบเทรด" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-2" target="hsY4HkFz0cet4jD83mKn-14">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-2" target="hsY4HkFz0cet4jD83mKn-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-2" value="signal indicator&amp;nbsp;&lt;br&gt;&lt;br&gt;- RSI 14 : OB = 67 OS = 33&lt;br&gt;- Parabolic SAR 0.02 , 0.2&lt;br&gt;EMA 6&lt;br&gt;&lt;br&gt;stoploss indy&lt;br&gt;&lt;br&gt;EMA 96" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-2" value="signal indicator&amp;nbsp;&lt;br&gt;&lt;br&gt;- RSI 14 : OB = 67 OS = 33&lt;br&gt;- Parabolic SAR 0.02 , 0.2&lt;br&gt;EMA 6&lt;br&gt;&lt;br&gt;stoploss indy&lt;br&gt;&lt;br&gt;EMA 96" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="487.5" y="220" width="185" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-6" target="hsY4HkFz0cet4jD83mKn-26">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-6" target="hsY4HkFz0cet4jD83mKn-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-6" target="hsY4HkFz0cet4jD83mKn-47">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-6" target="hsY4HkFz0cet4jD83mKn-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-6" value="OB และราคาปิด&lt;br&gt;ต่ำกว่า EMA6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-6" value="OB และราคาปิด&lt;br&gt;ต่ำกว่า EMA6" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="990" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-10" target="hsY4HkFz0cet4jD83mKn-31">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-10" target="hsY4HkFz0cet4jD83mKn-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-10">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="4488" as="targetPoint" />
+            <mxPoint x="1040" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-10" value="ถ้ามีBUY&lt;br&gt;เหลือ 1 ไม้&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-10" value="ถ้ามีBUY&lt;br&gt;เหลือ 1 ไม้&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="1360" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-14" target="hsY4HkFz0cet4jD83mKn-18">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-14" target="hsY4HkFz0cet4jD83mKn-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-14" value="นับ ออเดอร์" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-14" value="นับ ออเดอร์" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-18" target="hsY4HkFz0cet4jD83mKn-21">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-18" target="hsY4HkFz0cet4jD83mKn-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-18" target="hsY4HkFz0cet4jD83mKn-24">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-18" target="hsY4HkFz0cet4jD83mKn-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-18" value="ถ้ามี BUY" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-18" value="ถ้ามี BUY" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="620" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-21" target="hsY4HkFz0cet4jD83mKn-6">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-21" target="hsY4HkFz0cet4jD83mKn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-21" value="เช็คการปิดออเดอร์&lt;br&gt;&amp;nbsp;BUY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-21" value="เช็คการปิดออเดอร์&lt;br&gt;&amp;nbsp;BUY" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-24" target="hsY4HkFz0cet4jD83mKn-40">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-24" target="hsY4HkFz0cet4jD83mKn-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-24" target="hsY4HkFz0cet4jD83mKn-71">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-24" target="hsY4HkFz0cet4jD83mKn-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-24" value="ถ้ามี SELL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-24" value="ถ้ามี SELL" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="827" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-26" target="hsY4HkFz0cet4jD83mKn-10">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-26" target="hsY4HkFz0cet4jD83mKn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-26" value="เช็ค การ BE BUY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-26" value="เช็ค การ BE BUY" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="1205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-31">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-31" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="836" y="4484" as="targetPoint" />
+            <mxPoint x="836" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-31" value="BE BUY ไม้ 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-31" value="BE BUY ไม้ 2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-35" target="hsY4HkFz0cet4jD83mKn-42">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-35" target="hsY4HkFz0cet4jD83mKn-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-35" target="hsY4HkFz0cet4jD83mKn-45">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-35" target="hsY4HkFz0cet4jD83mKn-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-35" value="OS และราคาปิด&lt;br&gt;สูงว่า EMA6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-35" value="OS และราคาปิด&lt;br&gt;สูงว่า EMA6" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1180" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-37" target="hsY4HkFz0cet4jD83mKn-43">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-37" target="hsY4HkFz0cet4jD83mKn-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-37">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1800" y="4485" as="targetPoint" />
+            <mxPoint x="1800" y="5210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1800" y="1600" />
               <mxPoint x="1800" y="4485" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-37" value="ถ้ามีSELL&lt;br&gt;เหลือ 1 ไม้&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-37" value="ถ้ามีSELL&lt;br&gt;เหลือ 1 ไม้&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592.5" y="1550" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-40" target="hsY4HkFz0cet4jD83mKn-35">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-40" target="hsY4HkFz0cet4jD83mKn-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-40" value="เช็คการปิดออเดอร์ SELL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-40" value="เช็คการปิดออเดอร์ SELL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-42" target="hsY4HkFz0cet4jD83mKn-37">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-42" target="hsY4HkFz0cet4jD83mKn-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-42" value="เช็ค การ BE SELL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-42" value="เช็ค การ BE SELL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1587.5" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-43">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1648.8571428571431" y="4475.714285714285" as="targetPoint" />
+            <mxPoint x="1649" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-43" value="BE SELL ไม้ 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-43" value="BE SELL ไม้ 2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1587.5" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-45">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1392" y="4484" as="targetPoint" />
+            <mxPoint x="1392" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-45" value="&lt;span&gt;ปิดSELL&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-45" value="&lt;span&gt;ปิดSELL&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1332.5" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-47">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="4490" as="targetPoint" />
+            <mxPoint x="580" y="5200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="4482" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-47" value="&lt;span&gt;ปิดBUY&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-47" value="&lt;span&gt;ปิดBUY&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-49" target="hsY4HkFz0cet4jD83mKn-51">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-49" target="hsY4HkFz0cet4jD83mKn-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-49" value="เช็คสัญญาณ BUY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-49" value="เช็คสัญญาณ BUY" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="1226" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-51" target="hsY4HkFz0cet4jD83mKn-53">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-51" target="hsY4HkFz0cet4jD83mKn-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-51">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-51" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1840" y="4490" as="targetPoint" />
+            <mxPoint x="1840" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-51" value="RSI&lt;br&gt;OS &amp;lt; 33" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-51" value="RSI&lt;br&gt;OS &amp;lt; 33" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="1356" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-53" target="hsY4HkFz0cet4jD83mKn-55">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-53" target="hsY4HkFz0cet4jD83mKn-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-53" value="เช็คการดีดกลับ RSI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-53" value="เช็คการดีดกลับ RSI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="1526" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-55" target="hsY4HkFz0cet4jD83mKn-59">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-55" target="hsY4HkFz0cet4jD83mKn-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-55">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1910" y="4482.857142857143" as="targetPoint" />
+            <mxPoint x="1920" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-55" value="RSI &amp;gt; 33 &amp;amp;&amp;amp; &lt;br&gt;RSI&amp;lt; 67" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-55" value="RSI &amp;gt; 33 &amp;amp;&amp;amp; &lt;br&gt;RSI&amp;lt; 67" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2130" y="1661" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-59" target="hsY4HkFz0cet4jD83mKn-61">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-59" target="hsY4HkFz0cet4jD83mKn-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-59" value="แท่งย้องหลัง 1แท่ง &lt;br&gt;มีสีเขียว และ ราคาปิดมากกว่า EMA 6" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-59" value="แท่งย้องหลัง 1แท่ง &lt;br&gt;มีสีเขียว และ ราคาปิดมากกว่า EMA 6" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="1853.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-61" target="hsY4HkFz0cet4jD83mKn-63">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-61" target="hsY4HkFz0cet4jD83mKn-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-61">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1990" y="4480" as="targetPoint" />
+            <mxPoint x="1990" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-61" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-61" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="1983.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-63" target="hsY4HkFz0cet4jD83mKn-65">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-63" target="hsY4HkFz0cet4jD83mKn-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-63" value="SAR อยู่ใต้ Low ย้อนหลัง 1แท่ง" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-63" value="SAR อยู่ใต้ Low ย้อนหลัง 1แท่ง" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="2153.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-65" target="hsY4HkFz0cet4jD83mKn-78">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-65" target="hsY4HkFz0cet4jD83mKn-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-65">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-65" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2050" y="4490" as="targetPoint" />
+            <mxPoint x="2050" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-65" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-65" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="2283.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-67" target="hsY4HkFz0cet4jD83mKn-84">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-67" target="hsY4HkFz0cet4jD83mKn-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2180" y="3005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-67" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-67" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2101.25" y="2800" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-71" target="hsY4HkFz0cet4jD83mKn-73">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-71" target="hsY4HkFz0cet4jD83mKn-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-71" value="เช็ค PD BUY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-71" value="เช็ค PD BUY" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-73" target="hsY4HkFz0cet4jD83mKn-49">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-73" target="hsY4HkFz0cet4jD83mKn-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-73" target="hsY4HkFz0cet4jD83mKn-125">
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-73" target="hwHLhOgXQ_lcE9KCFWZn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-73" value="ถ้ามี&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-73" value="ถ้าไม่มีเพนดิ้ง" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="1110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-76" target="hsY4HkFz0cet4jD83mKn-67">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-76" target="hsY4HkFz0cet4jD83mKn-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-76" target="hsY4HkFz0cet4jD83mKn-86">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-76" target="hsY4HkFz0cet4jD83mKn-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-76" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-76" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="2630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-78" target="hsY4HkFz0cet4jD83mKn-76">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-78" target="hsY4HkFz0cet4jD83mKn-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-78" value="คำนวณราคา SL&lt;br&gt;&lt;div&gt;โดย low ให้เช็คแท่งเทียน ปัจจุบัน ย้อนกลับไป&lt;/div&gt;&lt;div&gt;จนเจอแท่งที่มีราคาปิด&lt;/div&gt;&lt;div&gt;ห่างจาก ema 96 &amp;gt; 200 จุด&lt;/div&gt;&lt;div&gt;แล้วเปรียบเทียบ low อันไหน้อยสุด อันนั้นแหละ SL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-78" value="คำนวณราคา SL&lt;br&gt;&lt;div&gt;โดย low ให้เช็คแท่งเทียน ปัจจุบัน ย้อนกลับไป&lt;/div&gt;&lt;div&gt;จนเจอแท่งที่มีราคาปิด&lt;/div&gt;&lt;div&gt;ห่างจาก ema 96 &amp;gt; 200 จุด&lt;/div&gt;&lt;div&gt;แล้วเปรียบเทียบ low อันไหน้อยสุด อันนั้นแหละ SL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2105" y="2440" width="150" height="116.5" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-84">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-84" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2180" y="4470" as="targetPoint" />
+            <mxPoint x="2180" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-84" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-84" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2101.25" y="3030" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-86" target="hsY4HkFz0cet4jD83mKn-88">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-86" target="hsY4HkFz0cet4jD83mKn-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-86" value="กรณี 1 : กราฟไม่มี low ของแท่งไหน ต่ำกว่าเส้น ema 96 ให้ใช้ low ของแท่งที่ห่างจากเส้น 96 ไม่เกิน 75 จุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-86" value="กรณี 1 : กราฟไม่มี low ของแท่งไหน ต่ำกว่าเส้น ema 96 ให้ใช้ low ของแท่งที่ห่างจากเส้น 96 ไม่เกิน 75 จุด" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2550" y="2795" width="160" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-88" target="hsY4HkFz0cet4jD83mKn-90">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-88" target="hsY4HkFz0cet4jD83mKn-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-88" target="hsY4HkFz0cet4jD83mKn-94">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-88" target="hsY4HkFz0cet4jD83mKn-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-88" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-88" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2590" y="3007.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-90" target="hsY4HkFz0cet4jD83mKn-97">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-90" target="hsY4HkFz0cet4jD83mKn-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-90" value="กรณี 2 : ทะลุเส้น 96 ลงไป ต้องไม่มีแท่งไหนปิดต่ำกว่าเส้น 96 เกิน 200 จุด ให้เอา low แท่งที่ต่ำสุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-90" value="กรณี 2 : ทะลุเส้น 96 ลงไป ต้องไม่มีแท่งไหนปิดต่ำกว่าเส้น 96 เกิน 200 จุด ให้เอา low แท่งที่ต่ำสุด" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2860" y="3140" width="160" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-94" target="hsY4HkFz0cet4jD83mKn-95">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-94" target="hsY4HkFz0cet4jD83mKn-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2630" y="3535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-94" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-94" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2551.25" y="3330" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-95">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-95" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2630" y="4470" as="targetPoint" />
+            <mxPoint x="2630" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-95" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-95" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2551.25" y="3560" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-97" target="hsY4HkFz0cet4jD83mKn-100">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-97" target="hsY4HkFz0cet4jD83mKn-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-97" target="hsY4HkFz0cet4jD83mKn-103">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-97" target="hsY4HkFz0cet4jD83mKn-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-97" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-97" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2900" y="3352.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-100" target="hsY4HkFz0cet4jD83mKn-101">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-100" target="hsY4HkFz0cet4jD83mKn-101" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2940" y="3805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-100" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-100" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2861.25" y="3600" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-101">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2940" y="4480" as="targetPoint" />
+            <mxPoint x="2940" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-101" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-101" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2861.25" y="3830" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-103">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-103" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3220" y="4470" as="targetPoint" />
+            <mxPoint x="3220" y="5200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-103" value="แจ้ง error หา SL ไม่ได้" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-103" value="แจ้ง error หา SL ไม่ได้" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3160" y="3625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-107" target="hsY4HkFz0cet4jD83mKn-109">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-107" target="hsY4HkFz0cet4jD83mKn-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-107" value="เช็คสัญญาณ SELL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3918.75" y="1582" width="120" height="60" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-107" value="เช็คสัญญาณ SELL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4648.75" y="2316" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-109" target="hsY4HkFz0cet4jD83mKn-111">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-109" target="hsY4HkFz0cet4jD83mKn-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-109">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-109" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3680" y="4480" as="targetPoint" />
+            <mxPoint x="4410" y="5214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-109" value="RSI&lt;br&gt;OB &amp;gt; 67" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3938.75" y="1712" width="80" height="80" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-109" value="RSI&lt;br&gt;OB &amp;gt; 67" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4668.75" y="2446" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-111" target="hsY4HkFz0cet4jD83mKn-113">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-111" target="hsY4HkFz0cet4jD83mKn-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-111" value="เช็คการดีดกลับ RSI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3918.75" y="1882" width="120" height="60" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-111" value="เช็คการดีดกลับ RSI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4648.75" y="2616" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-113" target="hsY4HkFz0cet4jD83mKn-115">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-113" target="hsY4HkFz0cet4jD83mKn-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-113">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-113" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3720" y="4480" as="targetPoint" />
+            <mxPoint x="4450" y="5214" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3720" y="2064" />
+              <mxPoint x="4450" y="2798" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-113" value="RSI &amp;lt; 67 &amp;amp;&amp;amp; &lt;br&gt;RSI &amp;gt; 33" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3928.75" y="2017" width="100" height="95" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-113" value="RSI &amp;lt; 67 &amp;amp;&amp;amp; &lt;br&gt;RSI &amp;gt; 33" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4658.75" y="2751" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-115" target="hsY4HkFz0cet4jD83mKn-117">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-115" target="hsY4HkFz0cet4jD83mKn-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-115" value="แท่งย้องหลัง 1แท่ง &lt;br&gt;มีสีแดง และ ราคาปิดน้อยกว่า EMA 6" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3918.75" y="2209.5" width="120" height="60" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-115" value="แท่งย้องหลัง 1แท่ง &lt;br&gt;มีสีแดง และ ราคาปิดน้อยกว่า EMA 6" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4648.75" y="2943.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-117" target="hsY4HkFz0cet4jD83mKn-119">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-117" target="hsY4HkFz0cet4jD83mKn-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-117">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-117" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3760" y="4484.705882352941" as="targetPoint" />
+            <mxPoint x="4490" y="5218.705882352941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-117" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3938.75" y="2339.5" width="80" height="80" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-117" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4668.75" y="3073.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-119" target="hsY4HkFz0cet4jD83mKn-121">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-119" target="hsY4HkFz0cet4jD83mKn-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-119" value="SAR อยู่เหนือ high ย้อนหลัง 1แท่ง" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3918.75" y="2509.5" width="120" height="60" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-119" value="SAR อยู่เหนือ high ย้อนหลัง 1แท่ง" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4648.75" y="3243.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-121" target="hsY4HkFz0cet4jD83mKn-132">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-121" target="hsY4HkFz0cet4jD83mKn-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-121">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-121" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3800" y="4480" as="targetPoint" />
+            <mxPoint x="4530" y="5214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-121" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3938.75" y="2639.5" width="80" height="80" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-121" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4668.75" y="3373.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-123" target="hsY4HkFz0cet4jD83mKn-133">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-123" target="hsY4HkFz0cet4jD83mKn-133" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3978.75" y="3361" as="targetPoint" />
+            <mxPoint x="4708.75" y="4095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-123" value="เปิด Pending SELL stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="3156" width="157.5" height="110" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-123" value="เปิด Pending SELL stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4630" y="3890" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-125" target="hsY4HkFz0cet4jD83mKn-127">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-125" target="hsY4HkFz0cet4jD83mKn-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-125" value="เช็ค PD SELL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3918.75" y="1356" width="120" height="60" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-125" value="เช็ค PD SELL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4648.75" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-127" target="hsY4HkFz0cet4jD83mKn-107">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-127" target="hsY4HkFz0cet4jD83mKn-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-127">
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-127" target="hwHLhOgXQ_lcE9KCFWZn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-127" value="ถ้าไม่มีเพนดิ้ง" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4668.75" y="2200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-130" target="hsY4HkFz0cet4jD83mKn-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-130" target="hsY4HkFz0cet4jD83mKn-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-130" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4668.75" y="3720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-132" target="hsY4HkFz0cet4jD83mKn-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-132" value="คำนวณราคา SL&lt;br&gt;&lt;div&gt;โดย high ให้เช็คแท่งเทียน ปัจจุบัน ย้อนกลับไป&lt;/div&gt;&lt;div&gt;จนเจอแท่งที่มีราคาปิด&lt;/div&gt;&lt;div&gt;ห่างจาก ema 96 &amp;gt; 200 จุด&lt;/div&gt;&lt;div&gt;แล้วเปรียบเทียบ highอันไหมากสุด อันนั้นแหละ SL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4633.75" y="3530" width="150" height="116.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-133" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3620" y="4480" as="targetPoint" />
+            <mxPoint x="4710" y="5214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-127" value="ถ้ามี&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3938.75" y="1466" width="80" height="80" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-133" value="เปิด Pending SELL stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4630" y="4120" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-130" target="hsY4HkFz0cet4jD83mKn-123">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-135" target="hsY4HkFz0cet4jD83mKn-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-130" target="hsY4HkFz0cet4jD83mKn-135">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-135" value="กรณี 1 : กราฟไม่มี high ของแท่งไหน สูงกว่าเส้น ema 96 ให้ใช้ high ของแท่งที่ห่างจากเส้น 96 ไม่เกิน 75 จุด" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5078.75" y="3885" width="160" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-138" target="hsY4HkFz0cet4jD83mKn-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-130" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3938.75" y="2986" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-132" target="hsY4HkFz0cet4jD83mKn-130">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-138" target="hsY4HkFz0cet4jD83mKn-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-132" value="คำนวณราคา SL&lt;br&gt;&lt;div&gt;โดย high ให้เช็คแท่งเทียน ปัจจุบัน ย้อนกลับไป&lt;/div&gt;&lt;div&gt;จนเจอแท่งที่มีราคาปิด&lt;/div&gt;&lt;div&gt;ห่างจาก ema 96 &amp;gt; 200 จุด&lt;/div&gt;&lt;div&gt;แล้วเปรียบเทียบ highอันไหมากสุด อันนั้นแหละ SL&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3903.75" y="2796" width="150" height="116.5" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-138" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5118.75" y="4097.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-133">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-140" target="hsY4HkFz0cet4jD83mKn-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-140" value="กรณี 2 : ทะลุเส้น 96 ขึ้นไป ต้องไม่มีแท่งไหนปิดสูงกว่าเส้น 96 เกิน 200 จุด ให้เอา highแท่งที่สูงสุด" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5388.75" y="4230" width="160" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-142" target="hsY4HkFz0cet4jD83mKn-143" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3980" y="4480" as="targetPoint" />
+            <mxPoint x="5158.75" y="4625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-133" value="เปิด Pending SELL stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="3386" width="157.5" height="110" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-142" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5080" y="4420" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-135" target="hsY4HkFz0cet4jD83mKn-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-135" value="กรณี 1 : กราฟไม่มี high ของแท่งไหน สูงกว่าเส้น ema 96 ให้ใช้ high ของแท่งที่ห่างจากเส้น 96 ไม่เกิน 75 จุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4348.75" y="3151" width="160" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-138" target="hsY4HkFz0cet4jD83mKn-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-138" target="hsY4HkFz0cet4jD83mKn-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-138" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4388.75" y="3363.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-140" target="hsY4HkFz0cet4jD83mKn-146">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-140" value="กรณี 2 : ทะลุเส้น 96 ขึ้นไป ต้องไม่มีแท่งไหนปิดสูงกว่าเส้น 96 เกิน 200 จุด ให้เอา highแท่งที่สูงสุด" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4658.75" y="3496" width="160" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-142" target="hsY4HkFz0cet4jD83mKn-143">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-143" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4428.75" y="3891" as="targetPoint" />
+            <mxPoint x="5160" y="5204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-142" value="เปิด Pending BUY stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="3686" width="157.5" height="110" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-143" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5080" y="4650" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-143">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4430" y="4470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-143" value="เปิด Pending BUY stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="3916" width="157.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-146" target="hsY4HkFz0cet4jD83mKn-148">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-146" target="hsY4HkFz0cet4jD83mKn-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-146" target="hsY4HkFz0cet4jD83mKn-150">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hsY4HkFz0cet4jD83mKn-146" target="hsY4HkFz0cet4jD83mKn-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-146" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4698.75" y="3708.5" width="80" height="80" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-146" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5428.75" y="4442.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-148" target="hsY4HkFz0cet4jD83mKn-149">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-148" target="hsY4HkFz0cet4jD83mKn-149" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4738.75" y="4161" as="targetPoint" />
+            <mxPoint x="5468.75" y="4895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-148" value="เปิด Pending SELL stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4660" y="3956" width="157.5" height="110" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-148" value="เปิด Pending SELL stop ไม้ 1&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 1.5 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5390" y="4690" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-149">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-149" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4740" y="4480" as="targetPoint" />
+            <mxPoint x="5470" y="5214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-149" value="เปิด Pending SELL stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4660" y="4186" width="157.5" height="110" as="geometry" />
+        <mxCell id="hsY4HkFz0cet4jD83mKn-149" value="เปิด Pending SELL stop ไม้ 2&lt;br&gt;&amp;nbsp;ที่ high ของแท่งสัญญาณ + สเปรด วางและ SL&lt;br&gt;Lot = 2.5% (balance)&lt;br&gt;TP 3 เท่า" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5390" y="4920" width="157.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-150">
+        <mxCell id="hsY4HkFz0cet4jD83mKn-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="5019" y="4500" />
-              <mxPoint x="150" y="4500" />
+              <mxPoint x="6850" y="2962" />
+              <mxPoint x="6850" y="5240" />
+              <mxPoint x="150" y="5240" />
               <mxPoint x="150" y="440" />
+            </Array>
+            <mxPoint x="5850" y="4800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5748.529411764706" y="5210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsY4HkFz0cet4jD83mKn-150" value="แจ้ง error หา SL ไม่ได้" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5688.75" y="4715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-1" target="hwHLhOgXQ_lcE9KCFWZn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-1" value="เช็คการยกเลิกเพนดิ้ง&lt;br&gt;หาก มี Low แท่งไหน ไปถึง ราคา SL ของเพนดิ้ง ให้ ยกเลิกเพนดิ้ง BUY stop ทั้ง 2 ทันที" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="1338" width="200" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-4" target="hwHLhOgXQ_lcE9KCFWZn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-4" target="hwHLhOgXQ_lcE9KCFWZn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-4" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3460" y="1544" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3500" y="5200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3500" y="4484" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsY4HkFz0cet4jD83mKn-150" value="แจ้ง error หา SL ไม่ได้" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4958.75" y="3981" width="120" height="60" as="geometry" />
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-6" value="ลบเพนดิ้ง BUY stop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="1714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-8" target="hwHLhOgXQ_lcE9KCFWZn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-8" value="เช็คการยกเลิกเพนดิ้ง&lt;br&gt;หาก ผ่านไปแล้ว 6แท่ง แล้ว &lt;br&gt;ราคายังไม่เกี่ยวเพนดิ้ง&lt;br&gt;ให้ ยกเลิกเพนดิ้ง BUY stop ทั้ง 2 ทันที" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="1682" width="200" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-14" target="hwHLhOgXQ_lcE9KCFWZn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-14" target="hsY4HkFz0cet4jD83mKn-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-14" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1884" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3920" y="5220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-15" value="ลบเพนดิ้ง BUY stop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="2052" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-21" target="hwHLhOgXQ_lcE9KCFWZn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-21" value="เช็คการยกเลิกเพนดิ้ง&lt;br&gt;หาก มี High แท่งไหน ไปถึง ราคา SL ของเพนดิ้ง ให้ ยกเลิกเพนดิ้ง SELL stop ทั้ง 2 ทันที" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="2376" width="200" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-24" target="hwHLhOgXQ_lcE9KCFWZn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-24" target="hwHLhOgXQ_lcE9KCFWZn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-24" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6030" y="2582" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6071" y="5231.428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-25" value="ลบเพนดิ้ง SELL stop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6010" y="2752" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-27" target="hwHLhOgXQ_lcE9KCFWZn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-27" value="เช็คการยกเลิกเพนดิ้ง&lt;br&gt;หาก ผ่านไปแล้ว 6แท่ง แล้ว &lt;br&gt;ราคายังไม่เกี่ยวเพนดิ้ง&lt;br&gt;ให้ ยกเลิกเพนดิ้ง SELL stop ทั้ง 2 ทันที" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6390" y="2720" width="200" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-29" target="hwHLhOgXQ_lcE9KCFWZn-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-29" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6450" y="2922" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwHLhOgXQ_lcE9KCFWZn-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6491" y="5232.857142857142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwHLhOgXQ_lcE9KCFWZn-30" value="ลบเพนดิ้ง SELL stop" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6430" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
