@@ -1,6 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T02:14:11.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="sVAVW2ewkb2qwo92jtze" version="14.5.8" type="github">
-  <diagram id="dHpRJ-4gGW41InI-ocSy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-08-06T05:05:19.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="BYqD35Qi3W8Iy8nbxzZd" version="14.9.4" type="github" pages="2">
+  <diagram id="sB3NlFgh846MJLpqYtrB" name="Flowchart System">
+    <mxGraphModel dx="1186" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ga4t_2UHGLSEsjtVvBqb-0" />
+        <mxCell id="ga4t_2UHGLSEsjtVvBqb-1" parent="ga4t_2UHGLSEsjtVvBqb-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dHpRJ-4gGW41InI-ocSy" name="Flowchart Coding">
+    <mxGraphModel dx="1977" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,7 +213,7 @@
             <mxPoint x="2050" y="5210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MEksfAzQ1T-mVPCm9ah5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-65" target="MEksfAzQ1T-mVPCm9ah5-1">
+        <mxCell id="MEksfAzQ1T-mVPCm9ah5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-65" target="MEksfAzQ1T-mVPCm9ah5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hsY4HkFz0cet4jD83mKn-65" value="ใช่" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -336,7 +344,7 @@
         <mxCell id="hsY4HkFz0cet4jD83mKn-127" value="ถ้าไม่มีเพนดิ้ง" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4668.75" y="2200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MEksfAzQ1T-mVPCm9ah5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hsY4HkFz0cet4jD83mKn-132" target="hsY4HkFz0cet4jD83mKn-123">
+        <mxCell id="MEksfAzQ1T-mVPCm9ah5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hsY4HkFz0cet4jD83mKn-132" target="hsY4HkFz0cet4jD83mKn-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hsY4HkFz0cet4jD83mKn-132" value="วาง SL ที่ high ของแท่งสัญญาณ + สเปรด" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -454,10 +462,10 @@
         <mxCell id="hwHLhOgXQ_lcE9KCFWZn-30" value="ลบเพนดิ้ง SELL stop" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6430" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MEksfAzQ1T-mVPCm9ah5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEksfAzQ1T-mVPCm9ah5-1" target="hsY4HkFz0cet4jD83mKn-67">
+        <mxCell id="MEksfAzQ1T-mVPCm9ah5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MEksfAzQ1T-mVPCm9ah5-1" target="hsY4HkFz0cet4jD83mKn-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MEksfAzQ1T-mVPCm9ah5-1" value="วาง SL ที่ low ของแท่งสัญญาณ + สเปรด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEksfAzQ1T-mVPCm9ah5-1" value="วาง SL ที่ low ของแท่งสัญญาณ + สเปรด" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2120" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
