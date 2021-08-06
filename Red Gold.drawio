@@ -1,14 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T05:05:19.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="BYqD35Qi3W8Iy8nbxzZd" version="14.9.4" type="github" pages="2">
-  <diagram id="sB3NlFgh846MJLpqYtrB" name="Flowchart System">
-    <mxGraphModel dx="1186" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-08-06T08:33:54.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="oeVUVw6u_ZrX6ZGSIShc" version="14.9.4" type="github" pages="2">
+  <diagram id="6qE7UWvRamm3Pu56T85r" name="Flowchart System">
+    <mxGraphModel dx="2322" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="ga4t_2UHGLSEsjtVvBqb-0" />
-        <mxCell id="ga4t_2UHGLSEsjtVvBqb-1" parent="ga4t_2UHGLSEsjtVvBqb-0" />
+        <mxCell id="TZtudiKT5ntQTQce9hxr-0" />
+        <mxCell id="TZtudiKT5ntQTQce9hxr-1" parent="TZtudiKT5ntQTQce9hxr-0" />
+        <mxCell id="un7izaXH3k_AHEQSHAgx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-0" target="un7izaXH3k_AHEQSHAgx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-284" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-0" value="ไม่มี Order Buy&amp;nbsp;&lt;br&gt;ไม่มี Pending Buy" style="whiteSpace=wrap;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-474" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-1" target="un7izaXH3k_AHEQSHAgx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-1" value="RSI(14) bar2 &amp;lt; 33" style="whiteSpace=wrap;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-474" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-2" target="un7izaXH3k_AHEQSHAgx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-2" value="RSI(14) bar1 &amp;gt; 33" style="whiteSpace=wrap;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-474" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-3" target="un7izaXH3k_AHEQSHAgx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-3" value="Close bar1 &amp;gt; EMA6 bar1" style="whiteSpace=wrap;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-489" y="260" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-4" target="un7izaXH3k_AHEQSHAgx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-4" target="un7izaXH3k_AHEQSHAgx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-4" value="Low bar1 &amp;gt; P Sar(0.02,0.2) bar1" style="whiteSpace=wrap;html=1;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-506.5" y="300" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-11" target="un7izaXH3k_AHEQSHAgx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-11" value="Pending Buy 1&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Open High bar1 adjust +spread&lt;/li&gt;&lt;li&gt;Risk 2.5% of Balance (Volume size depending on SL)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;SL Low bar 1 (ใช้ราคา bid ไม่ต้องคิด spread แล้ว)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;TP 150% of SL&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;imageVerticalAlign=middle;align=center;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-764" y="380" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-14" value="On Tick" style="whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-750" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-15" target="un7izaXH3k_AHEQSHAgx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-15" value="Pending Buy 2&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Open High bar1 adjust +spread&lt;/li&gt;&lt;li&gt;Risk 2.5% of Balance (Volume size depending on SL)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;SL Low bar 1 (ใช้ราคา bid ไม่ต้องคิด spread แล้ว)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;TP 300% of SL&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;imageVerticalAlign=middle;align=center;backgroundOutline=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-404" y="380" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-19" target="un7izaXH3k_AHEQSHAgx-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-19" value="If Pending Buy" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="60" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-20" target="un7izaXH3k_AHEQSHAgx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-20" value="Low bar0 &amp;lt;= SL" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="60" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-22" value="Delete pending orders" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="50" y="200" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="TZtudiKT5ntQTQce9hxr-1" source="un7izaXH3k_AHEQSHAgx-27" target="un7izaXH3k_AHEQSHAgx-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-27" value="Count 6 Bar" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-474" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un7izaXH3k_AHEQSHAgx-28" value="Delete pending orders" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TZtudiKT5ntQTQce9hxr-1">
+          <mxGeometry x="-484" y="640" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dHpRJ-4gGW41InI-ocSy" name="Flowchart Coding">
-    <mxGraphModel dx="1977" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2755" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
